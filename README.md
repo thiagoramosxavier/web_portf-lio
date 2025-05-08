@@ -1,9 +1,9 @@
 # Projeto De Pagina Web-Portifolio e Curriculo
-##Resumo
+## Resumo
 Esse e um projeto de pagina web utilizando HTML E CSS.Trata-se de uma pagina de portfolio onde encontra minhas informacoes,experiencias,currriculo.
 
-##Autores
+## Autores
 Thiago Ramos Xavier
 
-##Contato
+## Contato
 thiago.engenhariaif@gmail.com
